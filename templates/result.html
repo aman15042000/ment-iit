@@ -1,0 +1,158 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+</head>
+<body>
+    <h1>Result</h1>
+    <ul>
+        {% for item in lst %}
+        <li>{{item}}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html> -->
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Result</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>College Name</th>
+                <th>Program</th>
+                <th>Closing Rank</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in lst %}
+            <tr>
+                <td>{{ item[0] }}</td>
+                <td>{{ item[1] }}</td>
+                <td>{{ item[2] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Result</h1>
+    <label for="college-filter">Filter by Colleges -> </label>
+    <select id="college-filter" onchange="filterTable()">
+        <option value="">All Colleges</option>
+    </select>
+    <br>
+    <label for="program-filter">Filter by Programs -> </label>
+    <select id="program-filter" onchange="filterTable()">
+        <option value="">All Programs</option>
+    </select>
+    <br>
+    <table id="result-table">
+        <thead>
+            <tr>
+                <th>College Name</th>
+                <th>Program</th>
+                <th>Closing Rank</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in lst %}
+            <tr>
+                <td>{{ item[0] }}</td>
+                <td>{{ item[1]}}</td>
+                <td>{{ item[2]}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            populateFilterOptions();
+        });
+        function populateFilterOptions() {
+    var collegeFilter = document.getElementById('college-filter');
+    var programFilter = document.getElementById('program-filter');
+    var rows = document.getElementById('result-table').getElementsByTagName('tbody')[0].getElementsByTagName('tr');
+    var uniqueColleges = new Set();
+    var uniquePrograms = new Set();
+
+    for (var i = 0; i < rows.length; i++) {
+        var college = rows[i].getElementsByTagName('td')[0].innerText;
+        var program = rows[i].getElementsByTagName('td')[1].innerText;
+
+        uniqueColleges.add(college);
+        uniquePrograms.add(program);
+    }
+
+    // Clear existing options
+    collegeFilter.innerHTML = '<option value="">All Colleges</option>';
+    programFilter.innerHTML = '<option value="">All Programs</option>';
+
+    uniqueColleges.forEach(function (college) {
+        var option = document.createElement('option');
+        option.value = college;
+        option.text = college;
+        collegeFilter.appendChild(option);
+    });
+
+    // Convert set to array for sorting
+    var sortedPrograms = Array.from(uniquePrograms).sort();
+
+    sortedPrograms.forEach(function (program) {
+        var option = document.createElement('option');
+        option.value = program;
+        option.text = program;
+        programFilter.appendChild(option);
+    });
+        }
+        function filterTable() {
+        var collegeFilter = document.getElementById('college-filter').value;
+        var programFilter = document.getElementById('program-filter').value;
+        var rows = document.getElementById('result-table').getElementsByTagName('tbody')[0].getElementsByTagName('tr');
+
+        for (var i = 0; i < rows.length; i++) {
+            var college = rows[i].getElementsByTagName('td')[0].innerText;
+            var program = rows[i].getElementsByTagName('td')[1].innerText;
+
+            var showRow = (collegeFilter === '' || college === collegeFilter) && (programFilter === '' || program === programFilter);
+            rows[i].style.display = showRow ? '' : 'none';
+        }
+    }
+    </script>
+</body>
+</html>
+
+
+

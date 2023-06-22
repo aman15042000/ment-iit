@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login - Library Management System</title>
+</head>
+
+<body>
+<style> 
+	body {
+    background-image: url('https://images.unsplash.com/photo-1542281286-9e0a16bb7366');
+    background-size: 121%;
+    background-position: center;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .login-page {
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+  }
+  
+  .form {
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .form input[type="text"],
+  .form input[type="password"] {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #f0f0f0;
+    font-size: 14px;
+    color: #333;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .form input[type="text"]:focus,
+  .form input[type="password"]:focus {
+    outline: none;
+    border: 2px solid #88C0D0;
+    background: #FFFFFF;
+  }
+  
+  .form button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #88C0D0;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    -webkit-transition: background-color 0.3s ease-in-out;
+    -moz-transition: background-color 0.3s ease-in-out;
+    -ms-transition: background-color 0.3s ease-in-out;
+    -o-transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .form button:hover {
+    background-color: #5E81AC;
+  }
+  
+  
+</style>
+	<div class="login-page">
+	  <div class="form">
+	    <form class="login-form" method="POST">
+	      <input type="text" required name="rank" placeholder="Rank"/>
+	      <input type="password" required name="category"placeholder="Category"/>
+	      <button>Initiate</button>
+	    </form>
+	  </div>
+	</div>
+</body>
+</html>

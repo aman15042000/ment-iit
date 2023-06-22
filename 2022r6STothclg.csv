@@ -1,0 +1,669 @@
+,Unnamed: 0,Institute,Academic Program Name,Quota,Seat Type,Gender,Opening Rank,Closing Rank,Year,Round
+11,57352,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,280,601,2022,6
+12,57353,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1030,1030,2022,6
+25,57366,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,ST,Gender-Neutral,673,1313,2022,6
+26,57367,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,ST,Female-only (including Supernumerary),1397,1397,2022,6
+37,57378,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)",AI,ST,Gender-Neutral,1554,1626,2022,6
+38,57379,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)",AI,ST,Female-only (including Supernumerary),1477,1477,2022,6
+46,57387,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1149,1938,2022,6
+52,57393,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1712,2544,2022,6
+64,57405,Indian Institute of Information Technology Guwahati,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,937,2063,2022,6
+65,57406,Indian Institute of Information Technology Guwahati,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1890,1953,2022,6
+75,57416,Indian Institute of Information Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2476,2966,2022,6
+76,57417,Indian Institute of Information Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2738,2738,2022,6
+83,57424,"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2021,3642,2022,6
+89,57430,"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3513,4193,2022,6
+97,57438,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2069,2564,2022,6
+104,57445,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2648,2861,2022,6
+110,57451,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2331,2540,2022,6
+115,57456,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3921,4164,2022,6
+121,57462,"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2804,3901,2022,6
+128,57469,"Indian Institute of Information Technology (IIIT), Sri City, Chittoor","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,663,2775,2022,6
+133,57474,"Indian Institute of Information Technology (IIIT), Sri City, Chittoor","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2846,3445,2022,6
+144,57485,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,961,2248,2022,6
+145,57486,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2543,2747,2022,6
+155,57496,"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2557,2910,2022,6
+169,57510,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,705,924,2022,6
+170,57511,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1350,1581,2022,6
+180,57521,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (Under Flexible Academic Program) (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,833,927,2022,6
+195,57536,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,250,564,2022,6
+196,57537,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),364,1040,2022,6
+207,57548,"Indian Institute of Information Technology, Allahabad","Information Technology (Under Flexible Academic Program) (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,517,572,2022,6
+218,57559,"Indian Institute of Information Technology, Allahabad","Information Technology-Business Informatics (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,609,613,2022,6
+219,57560,"Indian Institute of Information Technology, Allahabad","Information Technology-Business Informatics (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1363,1363,2022,6
+231,57572,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1084,1358,2022,6
+232,57573,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1811,1811,2022,6
+243,57584,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,859,1318,2022,6
+244,57585,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1903,1903,2022,6
+256,57597,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1376,1879,2022,6
+257,57598,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2086,2459,2022,6
+266,57607,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2973,3049,2022,6
+267,57608,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3480,3480,2022,6
+276,57617,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Smart Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3259,3517,2022,6
+277,57618,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram","Smart Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3660,3660,2022,6
+291,57632,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,616,1163,2022,6
+292,57633,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1651,2253,2022,6
+305,57646,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1239,1499,2022,6
+306,57647,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2045,2360,2022,6
+315,57656,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2682,3041,2022,6
+316,57657,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2965,2965,2022,6
+325,57666,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Smart Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2378,3461,2022,6
+326,57667,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Smart Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),4253,4253,2022,6
+335,57676,Indian Institute of Information Technology Manipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3713,4221,2022,6
+336,57677,Indian Institute of Information Technology Manipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3560,4195,2022,6
+341,57682,Indian Institute of Information Technology Manipur,"Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3543,4049,2022,6
+350,57691,Indian Institute of Information Technology Manipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4254,4375,2022,6
+351,57692,Indian Institute of Information Technology Manipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),4491,4672,2022,6
+356,57697,Indian Institute of Information Technology Manipur,"Electronics and Communication Engineering with specialization in VLSI and Embedded Systems (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4292,4525,2022,6
+368,57709,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,444,1629,2022,6
+369,57710,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2713,2758,2022,6
+381,57722,Indian Institute of Information Technology Tiruchirappalli,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1172,2338,2022,6
+382,57723,Indian Institute of Information Technology Tiruchirappalli,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2740,2740,2022,6
+392,57733,Indian Institute of Information Technology Lucknow,"Computer Science (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,689,832,2022,6
+393,57734,Indian Institute of Information Technology Lucknow,"Computer Science (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1889,1889,2022,6
+404,57745,Indian Institute of Information Technology Lucknow,"Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,851,1274,2022,6
+405,57746,Indian Institute of Information Technology Lucknow,"Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1698,1698,2022,6
+416,57757,Indian Institute of Information Technology Lucknow,"Computer Science and Business (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1513,1732,2022,6
+417,57758,Indian Institute of Information Technology Lucknow,"Computer Science and Business (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2228,2228,2022,6
+429,57770,Indian Institute of Information Technology Lucknow,"Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,963,1414,2022,6
+430,57771,Indian Institute of Information Technology Lucknow,"Information Technology (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),1768,1768,2022,6
+437,57778,Indian Institute of Information Technology(IIIT) Dharwad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,804,3097,2022,6
+443,57784,Indian Institute of Information Technology(IIIT) Dharwad,"Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3274,3443,2022,6
+449,57790,Indian Institute of Information Technology(IIIT) Dharwad,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3308,3768,2022,6
+460,57801,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1587,2283,2022,6
+461,57802,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2299,2299,2022,6
+471,57812,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1592,1836,2022,6
+472,57813,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2064,2064,2022,6
+483,57824,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2245,2664,2022,6
+484,57825,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2298,2298,2022,6
+493,57834,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2672,3199,2022,6
+494,57835,"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh","Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3801,3801,2022,6
+505,57846,Indian Institute of Information Technology(IIIT) Kottayam,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2184,3376,2022,6
+506,57847,Indian Institute of Information Technology(IIIT) Kottayam,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2911,3313,2022,6
+516,57857,Indian Institute of Information Technology(IIIT) Kottayam,"Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2264,2977,2022,6
+517,57858,Indian Institute of Information Technology(IIIT) Kottayam,"Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3357,3357,2022,6
+527,57868,Indian Institute of Information Technology(IIIT) Kottayam,"Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2896,3605,2022,6
+528,57869,Indian Institute of Information Technology(IIIT) Kottayam,"Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3557,3557,2022,6
+538,57879,Indian Institute of Information Technology(IIIT) Kottayam,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3618,4004,2022,6
+539,57880,Indian Institute of Information Technology(IIIT) Kottayam,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3891,3891,2022,6
+546,57887,Indian Institute of Information Technology (IIIT) Ranchi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2470,3267,2022,6
+552,57893,Indian Institute of Information Technology (IIIT) Ranchi,"Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))",AI,ST,Gender-Neutral,2866,3433,2022,6
+558,57899,Indian Institute of Information Technology (IIIT) Ranchi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3414,4155,2022,6
+564,57905,Indian Institute of Information Technology (IIIT) Ranchi,"Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))",AI,ST,Gender-Neutral,3457,4169,2022,6
+572,57913,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1940,3006,2022,6
+580,57921,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,754,3029,2022,6
+587,57928,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1372,3288,2022,6
+594,57935,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3222,3346,2022,6
+601,57942,Indian Institute of Information Technology (IIIT) Nagpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3111,3939,2022,6
+607,57948,Indian Institute of Information Technology (IIIT) Nagpur,"Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3752,4133,2022,6
+622,57963,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,693,1857,2022,6
+623,57964,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2284,2498,2022,6
+634,57975,Indian Institute of Information Technology (IIIT) Pune,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2142,2913,2022,6
+635,57976,Indian Institute of Information Technology (IIIT) Pune,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2579,2579,2022,6
+645,57986,Indian Institute of Information Technology Bhagalpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3191,4023,2022,6
+646,57987,Indian Institute of Information Technology Bhagalpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3100,3100,2022,6
+656,57997,Indian Institute of Information Technology Bhagalpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4034,4248,2022,6
+657,57998,Indian Institute of Information Technology Bhagalpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),4231,4231,2022,6
+663,58004,Indian Institute of Information Technology Bhagalpur,"Mechatronics Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4321,4565,2022,6
+664,58005,Indian Institute of Information Technology Bhagalpur,"Mechatronics Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),4795,4795,2022,6
+672,58013,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1571,2610,2022,6
+678,58019,Indian Institute of Information Technology Bhopal,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,921,3769,2022,6
+685,58026,Indian Institute of Information Technology Bhopal,"Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2802,3176,2022,6
+696,58037,Indian Institute of Information Technology Surat,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1011,2113,2022,6
+697,58038,Indian Institute of Information Technology Surat,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2524,2935,2022,6
+708,58049,Indian Institute of Information Technology Surat,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2030,3500,2022,6
+709,58050,Indian Institute of Information Technology Surat,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),3703,3708,2022,6
+714,58055,"Indian Institute of Information Technology, Agartala","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1223,3416,2022,6
+724,58065,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1495,2507,2022,6
+725,58066,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2800,2800,2022,6
+735,58076,"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2249,3223,2022,6
+736,58077,"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),2690,2690,2022,6
+744,58085,"Assam University, Silchar","Agricultural Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3227,3957,2022,6
+752,58102,"Assam University, Silchar","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3606,3924,2022,6
+761,58120,"Assam University, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3530,4255,2022,6
+765,58133,"Birla Institute of Technology, Mesra, Ranchi","Architecture (5 Years, Bachelor of Architecture)",AI,ST,Gender-Neutral,103,103,2022,6
+771,58142,"Birla Institute of Technology, Mesra, Ranchi","Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1791,1929,2022,6
+775,58150,"Birla Institute of Technology, Mesra, Ranchi","Bio Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4876,4876,2022,6
+779,58158,"Birla Institute of Technology, Mesra, Ranchi","Chemical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4587,5110,2022,6
+784,58167,"Birla Institute of Technology, Mesra, Ranchi","Civil Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2523,2978,2022,6
+790,58177,"Birla Institute of Technology, Mesra, Ranchi","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,706,1667,2022,6
+794,58186,"Birla Institute of Technology, Mesra, Ranchi","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2123,3132,2022,6
+799,58195,"Birla Institute of Technology, Mesra, Ranchi","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1821,3396,2022,6
+803,58203,"Birla Institute of Technology, Mesra, Ranchi","Food Technology (5 Years, Integrated Master of Science)",AI,ST,Gender-Neutral,5165,5165,2022,6
+807,58211,"Birla Institute of Technology, Mesra, Ranchi","Mathematics and Computing (5 Years, Integrated Master of Science)",AI,ST,Gender-Neutral,4141,4216,2022,6
+811,58219,"Birla Institute of Technology, Mesra, Ranchi","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3533,4279,2022,6
+815,58227,"Birla Institute of Technology, Mesra, Ranchi","Physics (5 Years, Integrated Master of Science)",AI,ST,Gender-Neutral,5357,5357,2022,6
+819,58234,"Birla Institute of Technology, Mesra, Ranchi","Production and Industrial Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4562,4652,2022,6
+824,58243,"Birla Institute of Technology, Mesra, Ranchi","Quantitative Economics & Data Science (5 Years, Integrated Master of Science)",AI,ST,Gender-Neutral,3716,3716,2022,6
+830,58253,"Gurukula Kangri Vishwavidyalaya, Haridwar","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3786,5337,2022,6
+835,58258,"Gurukula Kangri Vishwavidyalaya, Haridwar","Electrical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4485,4911,2022,6
+840,58263,"Gurukula Kangri Vishwavidyalaya, Haridwar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5303,5711,2022,6
+845,58268,"Gurukula Kangri Vishwavidyalaya, Haridwar","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4963,6035,2022,6
+850,58273,"Indian Institute of Carpet Technology, Bhadohi","Carpet and Textile Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5789,5789,2022,6
+855,58278,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad","Civil Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3702,4601,2022,6
+859,58282,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad","Computer Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3335,3550,2022,6
+864,58287,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad","Electrical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3521,4387,2022,6
+869,58292,"Institute of Infrastructure, Technology, Research and Management-Ahmedabad","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3160,4556,2022,6
+874,58297,"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)","Chemical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5658,6340,2022,6
+880,58303,"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)","Civil Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3697,4596,2022,6
+886,58309,"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3118,3953,2022,6
+891,58314,"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3976,5067,2022,6
+896,58319,"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)","Industrial and Production Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,6134,6384,2022,6
+902,58325,"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4247,5052,2022,6
+907,58330,"Institute of Technology, Guru Ghasidas Vishwavidyalaya (A Central University), Bilaspur, (C.G.)","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5073,5862,2022,6
+913,58336,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3119,4264,2022,6
+919,58342,"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4406,4884,2022,6
+925,58348,"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)","Electronics System Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4449,5229,2022,6
+935,58358,"National Institute of Advanced Manufacturing Technology, Ranchi","Computer Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1783,4073,2022,6
+936,58359,"National Institute of Advanced Manufacturing Technology, Ranchi","Computer Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),4993,4993,2022,6
+945,58368,"National Institute of Advanced Manufacturing Technology, Ranchi","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3825,5085,2022,6
+946,58369,"National Institute of Advanced Manufacturing Technology, Ranchi","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),4257,4257,2022,6
+955,58378,"National Institute of Advanced Manufacturing Technology, Ranchi","Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4500,5810,2022,6
+956,58379,"National Institute of Advanced Manufacturing Technology, Ranchi","Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),4328,4328,2022,6
+965,58388,"National Institute of Advanced Manufacturing Technology, Ranchi","Production and Industrial Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3669,5917,2022,6
+966,58389,"National Institute of Advanced Manufacturing Technology, Ranchi","Production and Industrial Engineering (4 Years, Bachelor of Technology)",AI,ST,Female-only (including Supernumerary),5427,5427,2022,6
+971,58394,Sant Longowal Institute of Engineering and Technology,"Chemical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5882,6095,2022,6
+977,58400,Sant Longowal Institute of Engineering and Technology,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3936,4527,2022,6
+982,58405,Sant Longowal Institute of Engineering and Technology,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4691,4883,2022,6
+988,58411,Sant Longowal Institute of Engineering and Technology,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4239,4567,2022,6
+993,58416,Sant Longowal Institute of Engineering and Technology,"Food Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,6268,6289,2022,6
+998,58421,Sant Longowal Institute of Engineering and Technology,"Instrumentation and Control Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5553,5553,2022,6
+1003,58426,Sant Longowal Institute of Engineering and Technology,"Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3700,5931,2022,6
+1007,58430,"Mizoram University, Aizawl","Architecture (5 Years, Bachelor of Architecture)",AI,ST,Gender-Neutral,58,178,2022,6
+1011,58434,"Mizoram University, Aizawl","Civil Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3512,4749,2022,6
+1015,58438,"Mizoram University, Aizawl","Computer Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4566,5201,2022,6
+1019,58442,"Mizoram University, Aizawl","Electrical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4663,5763,2022,6
+1023,58446,"Mizoram University, Aizawl","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5356,5824,2022,6
+1027,58450,"Mizoram University, Aizawl","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5128,5342,2022,6
+1033,58456,"School of Engineering, Tezpur University, Napaam, Tezpur","Civil Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3381,3405,2022,6
+1038,58461,"School of Engineering, Tezpur University, Napaam, Tezpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2262,2262,2022,6
+1043,58466,"School of Engineering, Tezpur University, Napaam, Tezpur","Electrical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3785,3785,2022,6
+1048,58471,"School of Engineering, Tezpur University, Napaam, Tezpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2880,3358,2022,6
+1053,58476,"School of Engineering, Tezpur University, Napaam, Tezpur","Food Engineering and Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4694,4694,2022,6
+1058,58481,"School of Engineering, Tezpur University, Napaam, Tezpur","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3621,3876,2022,6
+1064,58487,"School of Planning & Architecture, Bhopal","Architecture (5 Years, Bachelor of Architecture)",AI,ST,Gender-Neutral,13,91,2022,6
+1070,58493,"School of Planning & Architecture, Bhopal","Planning (4 Years, Bachelor of Planning)",AI,ST,Gender-Neutral,41,68,2022,6
+1076,58499,"School of Planning & Architecture, New Delhi","Architecture (5 Years, Bachelor of Architecture)",AI,ST,Gender-Neutral,7,26,2022,6
+1083,58506,"School of Planning & Architecture, New Delhi","Planning (4 Years, Bachelor of Planning)",AI,ST,Gender-Neutral,8,25,2022,6
+1089,58512,School of Planning & Architecture: Vijayawada,"Architecture (5 Years, Bachelor of Architecture)",AI,ST,Gender-Neutral,29,75,2022,6
+1094,58517,School of Planning & Architecture: Vijayawada,"Planning (4 Years, Bachelor of Planning)",AI,ST,Gender-Neutral,81,115,2022,6
+1106,58529,"International Institute of Information Technology, Naya Raipur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2132,2304,2022,6
+1111,58534,"International Institute of Information Technology, Naya Raipur","Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2393,2393,2022,6
+1115,58538,"International Institute of Information Technology, Naya Raipur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3269,3287,2022,6
+1122,58545,University of Hyderabad,"Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",AI,ST,Gender-Neutral,1140,1623,2022,6
+1129,58621,"Jawaharlal Nehru University, Delhi","Computer Science & Engineering (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",AI,ST,Gender-Neutral,1284,2286,2022,6
+1136,58628,"Jawaharlal Nehru University, Delhi","Electronics & Communication Engineering (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",AI,ST,Gender-Neutral,1838,2944,2022,6
+1142,58634,"International Institute of Information Technology, Bhubaneswar","Computer Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2534,2888,2022,6
+1149,58641,"International Institute of Information Technology, Bhubaneswar","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,790,2565,2022,6
+1154,58646,"International Institute of Information Technology, Bhubaneswar","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3265,3448,2022,6
+1160,58652,"International Institute of Information Technology, Bhubaneswar","Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3364,3995,2022,6
+1166,58658,"International Institute of Information Technology, Bhubaneswar","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,2900,2957,2022,6
+1181,58673,"Central institute of Technology Kokrajar, Assam","Instrumentation Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5350,5350,2022,6
+1194,58686,"Puducherry Technological University, Puducherry","Civil Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3631,4585,2022,6
+1202,58696,"Puducherry Technological University, Puducherry","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1461,3539,2022,6
+1206,58703,"Puducherry Technological University, Puducherry","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4454,4454,2022,6
+1213,58710,"Puducherry Technological University, Puducherry","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3941,4165,2022,6
+1222,58722,"Puducherry Technological University, Puducherry","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3892,3892,2022,6
+1228,58728,"Puducherry Technological University, Puducherry","Mechanical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3276,4670,2022,6
+1233,58736,"Puducherry Technological University, Puducherry","Mechatronics Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5372,5402,2022,6
+1238,58774,"Central University of Rajasthan, Rajasthan","Bio Medical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5001,5257,2022,6
+1244,58780,"Central University of Rajasthan, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3054,3401,2022,6
+1249,58785,"Central University of Rajasthan, Rajasthan","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4183,4572,2022,6
+1254,58790,"National Institute of Food Technology Entrepreneurship and Management, Sonepat, Haryana","Food Technology and Management (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4021,6174,2022,6
+1259,58795,"National Institute of Food Technology, Entrepreneurship and Management (NIFTEM) - Thanjavur","Food Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4199,5576,2022,6
+1263,58799,"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh","Civil Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,979,979,2022,6
+1277,58810,"Indian Institute of Handloom Technology(IIHT), Varanasi","Handloom and Textile Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4550,5837,2022,6
+1282,58818,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)","Computer Science Engineering (Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))",AI,ST,Gender-Neutral,3684,4697,2022,6
+1287,58823,"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)","Computer Science Engineering (Data Science) (4 Years, B. Tech / B. Tech (Hons.))",AI,ST,Gender-Neutral,4206,4779,2022,6
+1292,58828,"Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar","Chemical Engineering (5 Years, Integrated Masters in Technology)",AI,ST,Gender-Neutral,2991,3797,2022,6
+1297,58838,"North-Eastern Hill University, Shillong","Biomedical Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,6140,6416,2022,6
+1302,58843,"North-Eastern Hill University, Shillong","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,3473,4389,2022,6
+1307,58848,"North-Eastern Hill University, Shillong","Energy Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5419,5606,2022,6
+1312,58853,"North-Eastern Hill University, Shillong","Information Technology (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,1958,3858,2022,6
+1317,58858,Central University of Jammu,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4720,5349,2022,6
+1322,58863,Central University of Jammu,"Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,5022,5758,2022,6
+1327,58868,Central University of Jammu,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4492,5847,2022,6
+1332,58873,Central University of Jammu,"Electronics and Communication Engineering (Avionics) (4 Years, Bachelor of Technology)",AI,ST,Gender-Neutral,4925,5409,2022,6
+1341,51961,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,3151,3153,2022,6
+1350,51978,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2037,2367,2022,6
+1351,51979,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3898,3898,2022,6
+1360,51996,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1304,1426,2022,6
+1372,52020,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,356,414,2022,6
+1373,52021,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1484,1484,2022,6
+1384,52040,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,972,1181,2022,6
+1385,52041,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1479,1479,2022,6
+1397,52063,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,796,853,2022,6
+1398,52064,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1713,1713,2022,6
+1406,52080,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Industrial and Production Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2576,2812,2022,6
+1419,52103,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,605,711,2022,6
+1420,52104,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1688,1688,2022,6
+1431,52123,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Instrumentation and Control Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1593,2416,2022,6
+1432,52124,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Instrumentation and Control Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2225,2225,2022,6
+1441,52141,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1671,1976,2022,6
+1442,52142,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2918,2918,2022,6
+1451,52158,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Textile Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2862,3197,2022,6
+1452,52159,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Textile Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4137,4137,2022,6
+1461,52177,Malaviya National Institute of Technology Jaipur,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,109,115,2022,6
+1462,52178,Malaviya National Institute of Technology Jaipur,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Female-only (including Supernumerary),30,30,2022,6
+1473,52200,Malaviya National Institute of Technology Jaipur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1743,2276,2022,6
+1474,52201,Malaviya National Institute of Technology Jaipur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2997,2997,2022,6
+1484,52222,Malaviya National Institute of Technology Jaipur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,735,1369,2022,6
+1485,52223,Malaviya National Institute of Technology Jaipur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2324,2324,2022,6
+1498,52249,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,210,223,2022,6
+1499,52250,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),431,431,2022,6
+1510,52274,Malaviya National Institute of Technology Jaipur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1013,1146,2022,6
+1511,52275,Malaviya National Institute of Technology Jaipur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1711,1711,2022,6
+1524,52301,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,362,462,2022,6
+1525,52302,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1000,1000,2022,6
+1536,52324,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,882,1352,2022,6
+1537,52325,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2257,2257,2022,6
+1547,52346,Malaviya National Institute of Technology Jaipur,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2482,2641,2022,6
+1548,52347,Malaviya National Institute of Technology Jaipur,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3520,3520,2022,6
+1557,52367,Maulana Azad National Institute of Technology Bhopal,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,121,162,2022,6
+1558,52368,Maulana Azad National Institute of Technology Bhopal,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Female-only (including Supernumerary),172,172,2022,6
+1569,52389,Maulana Azad National Institute of Technology Bhopal,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1981,2139,2022,6
+1570,52390,Maulana Azad National Institute of Technology Bhopal,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3506,3506,2022,6
+1581,52411,Maulana Azad National Institute of Technology Bhopal,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1089,1430,2022,6
+1582,52412,Maulana Azad National Institute of Technology Bhopal,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1553,1553,2022,6
+1595,52438,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,272,413,2022,6
+1596,52439,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),722,920,2022,6
+1608,52464,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1162,1202,2022,6
+1609,52465,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1947,1947,2022,6
+1621,52489,Maulana Azad National Institute of Technology Bhopal,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,691,795,2022,6
+1622,52490,Maulana Azad National Institute of Technology Bhopal,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1240,1240,2022,6
+1632,52510,Maulana Azad National Institute of Technology Bhopal,"Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2341,2844,2022,6
+1633,52511,Maulana Azad National Institute of Technology Bhopal,"Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4099,4099,2022,6
+1641,52527,Maulana Azad National Institute of Technology Bhopal,"Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,1190,1190,2022,6
+1652,52549,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1689,1942,2022,6
+1653,52550,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2370,2370,2022,6
+1661,52566,Maulana Azad National Institute of Technology Bhopal,"Planning (4 Years, Bachelor of Planning)",OS,ST,Gender-Neutral,44,79,2022,6
+1670,52583,Motilal Nehru National Institute of Technology Allahabad,"Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2137,2480,2022,6
+1671,52584,Motilal Nehru National Institute of Technology Allahabad,"Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3880,3880,2022,6
+1682,52605,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1447,1657,2022,6
+1693,52628,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,629,1081,2022,6
+1694,52629,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2201,2201,2022,6
+1708,52658,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,55,209,2022,6
+1709,52659,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),593,595,2022,6
+1722,52684,Motilal Nehru National Institute of Technology Allahabad,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,491,737,2022,6
+1723,52685,Motilal Nehru National Institute of Technology Allahabad,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1496,1496,2022,6
+1735,52710,Motilal Nehru National Institute of Technology Allahabad,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,412,539,2022,6
+1736,52711,Motilal Nehru National Institute of Technology Allahabad,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1139,1197,2022,6
+1748,52736,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1246,1613,2022,6
+1749,52737,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2154,2154,2022,6
+1759,52755,Motilal Nehru National Institute of Technology Allahabad,"Production and Industrial Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2209,2209,2022,6
+1760,52756,Motilal Nehru National Institute of Technology Allahabad,"Production and Industrial Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3777,3777,2022,6
+1768,52771,National Institute of Technology Agartala,"Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,3321,3466,2022,6
+1777,52788,National Institute of Technology Agartala,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,3039,3224,2022,6
+1778,52789,National Institute of Technology Agartala,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4046,4046,2022,6
+1783,52798,National Institute of Technology Agartala,"Chemistry (5 Years, Bachelor of Science and Master of Science (Dual Degree))",OS,ST,Gender-Neutral,3619,3619,2022,6
+1792,52815,National Institute of Technology Agartala,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1755,2263,2022,6
+1793,52816,National Institute of Technology Agartala,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2702,2702,2022,6
+1798,52825,National Institute of Technology Agartala,"Computational Mathematics (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,2904,2904,2022,6
+1810,52846,National Institute of Technology Agartala,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,611,900,2022,6
+1811,52847,National Institute of Technology Agartala,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2168,2168,2022,6
+1821,52865,National Institute of Technology Agartala,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2024,2226,2022,6
+1822,52866,National Institute of Technology Agartala,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2953,2953,2022,6
+1832,52884,National Institute of Technology Agartala,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,950,1622,2022,6
+1833,52885,National Institute of Technology Agartala,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2574,2574,2022,6
+1842,52902,National Institute of Technology Agartala,"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2061,2244,2022,6
+1843,52903,National Institute of Technology Agartala,"Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3152,3152,2022,6
+1848,52912,National Institute of Technology Agartala,"Engineering Physics (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,3763,3763,2022,6
+1853,52921,National Institute of Technology Agartala,"Mathematics & Computing (5 Years, Bachelor of Science and Master of Science (Dual Degree))",OS,ST,Gender-Neutral,2840,2840,2022,6
+1862,52938,National Institute of Technology Agartala,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2349,2627,2022,6
+1863,52939,National Institute of Technology Agartala,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2839,2839,2022,6
+1868,52948,National Institute of Technology Agartala,"Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))",OS,ST,Gender-Neutral,3331,3331,2022,6
+1877,52965,National Institute of Technology Agartala,"Production Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,3148,3419,2022,6
+1878,52966,National Institute of Technology Agartala,"Production Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4107,4107,2022,6
+1888,52983,National Institute of Technology Calicut,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,86,86,2022,6
+1889,52984,National Institute of Technology Calicut,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Female-only (including Supernumerary),12,12,2022,6
+1898,53001,National Institute of Technology Calicut,"Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1718,1718,2022,6
+1899,53002,National Institute of Technology Calicut,"Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1500,1500,2022,6
+1909,53023,National Institute of Technology Calicut,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1520,1636,2022,6
+1910,53024,National Institute of Technology Calicut,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2053,2053,2022,6
+1921,53046,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,692,1133,2022,6
+1922,53047,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2017,2017,2022,6
+1933,53071,National Institute of Technology Calicut,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,74,128,2022,6
+1934,53072,National Institute of Technology Calicut,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),569,569,2022,6
+1949,53099,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,333,819,2022,6
+1950,53100,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),896,896,2022,6
+1963,53125,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,284,306,2022,6
+1964,53126,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),890,890,2022,6
+1973,53144,National Institute of Technology Calicut,"Engineering Physics (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1829,1867,2022,6
+1981,53159,National Institute of Technology Calicut,"Materials Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1971,1971,2022,6
+1992,53180,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,816,1063,2022,6
+1993,53181,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1440,1565,2022,6
+2003,53198,National Institute of Technology Calicut,"Production Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1814,1814,2022,6
+2004,53199,National Institute of Technology Calicut,"Production Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2767,2767,2022,6
+2012,53217,National Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1302,1302,2022,6
+2024,53240,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,266,415,2022,6
+2025,53241,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),606,606,2022,6
+2036,53263,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,813,935,2022,6
+2045,53283,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,443,624,2022,6
+2046,53284,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1391,1391,2022,6
+2057,53303,National Institute of Technology Delhi,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1591,1618,2022,6
+2066,53322,National Institute of Technology Durgapur,"Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2506,2755,2022,6
+2069,53329,National Institute of Technology Durgapur,"Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Female-only (including Supernumerary),708,708,2022,6
+2079,53350,National Institute of Technology Durgapur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1869,1899,2022,6
+2080,53351,National Institute of Technology Durgapur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2699,2699,2022,6
+2084,53358,National Institute of Technology Durgapur,"Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Female-only (including Supernumerary),3639,3639,2022,6
+2091,53371,National Institute of Technology Durgapur,"Chemistry (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,3378,3378,2022,6
+2101,53391,National Institute of Technology Durgapur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1301,1311,2022,6
+2102,53392,National Institute of Technology Durgapur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2450,2450,2022,6
+2114,53419,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,53,213,2022,6
+2115,53420,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),600,615,2022,6
+2127,53443,National Institute of Technology Durgapur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,863,887,2022,6
+2128,53444,National Institute of Technology Durgapur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1388,1388,2022,6
+2139,53467,National Institute of Technology Durgapur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,405,710,2022,6
+2140,53468,National Institute of Technology Durgapur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1342,1342,2022,6
+2151,53491,National Institute of Technology Durgapur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1267,1504,2022,6
+2152,53492,National Institute of Technology Durgapur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2140,2173,2022,6
+2161,53511,National Institute of Technology Durgapur,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2303,2468,2022,6
+2162,53512,National Institute of Technology Durgapur,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3592,3592,2022,6
+2171,53529,National Institute of Technology Goa,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,960,960,2022,6
+2180,53549,National Institute of Technology Goa,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,253,253,2022,6
+2190,53570,National Institute of Technology Goa,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1336,1336,2022,6
+2198,53589,National Institute of Technology Goa,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,537,537,2022,6
+2199,53590,National Institute of Technology Goa,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1457,1457,2022,6
+2207,53605,National Institute of Technology Goa,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1983,1983,2022,6
+2215,53621,National Institute of Technology Hamirpur,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,117,117,2022,6
+2216,53622,National Institute of Technology Hamirpur,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Female-only (including Supernumerary),130,130,2022,6
+2225,53640,National Institute of Technology Hamirpur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1812,2317,2022,6
+2226,53641,National Institute of Technology Hamirpur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3949,3949,2022,6
+2235,53660,National Institute of Technology Hamirpur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1099,1675,2022,6
+2236,53661,National Institute of Technology Hamirpur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2769,2769,2022,6
+2247,53684,National Institute of Technology Hamirpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,423,578,2022,6
+2248,53685,National Institute of Technology Hamirpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1681,1681,2022,6
+2257,53702,National Institute of Technology Hamirpur,"Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,922,922,2022,6
+2267,53722,National Institute of Technology Hamirpur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1451,1686,2022,6
+2268,53723,National Institute of Technology Hamirpur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2432,2432,2022,6
+2280,53746,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,845,1069,2022,6
+2281,53747,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2011,2011,2022,6
+2289,53762,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,1515,1515,2022,6
+2298,53779,National Institute of Technology Hamirpur,"Engineering Physics (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2961,2961,2022,6
+2305,53794,National Institute of Technology Hamirpur,"Materials Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2611,2611,2022,6
+2306,53795,National Institute of Technology Hamirpur,"Materials Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4058,4058,2022,6
+2315,53813,National Institute of Technology Hamirpur,"Mathematics and Computing (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,881,881,2022,6
+2316,53814,National Institute of Technology Hamirpur,"Mathematics and Computing (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3365,3365,2022,6
+2326,53833,National Institute of Technology Hamirpur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1191,2136,2022,6
+2327,53834,National Institute of Technology Hamirpur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2803,2803,2022,6
+2335,53852,"National Institute of Technology Karnataka, Surathkal","Artificial Intelligence (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,151,151,2022,6
+2336,53853,"National Institute of Technology Karnataka, Surathkal","Artificial Intelligence (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),568,568,2022,6
+2345,53873,"National Institute of Technology Karnataka, Surathkal","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,638,638,2022,6
+2346,53874,"National Institute of Technology Karnataka, Surathkal","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1488,1488,2022,6
+2357,53897,"National Institute of Technology Karnataka, Surathkal","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,646,789,2022,6
+2358,53898,"National Institute of Technology Karnataka, Surathkal","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1182,1182,2022,6
+2367,53915,"National Institute of Technology Karnataka, Surathkal","Computational and Data Science (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,162,162,2022,6
+2380,53940,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,28,54,2022,6
+2381,53941,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),195,195,2022,6
+2392,53964,"National Institute of Technology Karnataka, Surathkal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,282,454,2022,6
+2393,53965,"National Institute of Technology Karnataka, Surathkal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),519,519,2022,6
+2405,53988,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,211,214,2022,6
+2406,53989,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),492,492,2022,6
+2418,54012,"National Institute of Technology Karnataka, Surathkal","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,84,132,2022,6
+2419,54013,"National Institute of Technology Karnataka, Surathkal","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),353,353,2022,6
+2431,54038,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,531,717,2022,6
+2432,54039,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1093,1093,2022,6
+2441,54058,"National Institute of Technology Karnataka, Surathkal","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1204,1204,2022,6
+2442,54059,"National Institute of Technology Karnataka, Surathkal","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2067,2067,2022,6
+2450,54077,"National Institute of Technology Karnataka, Surathkal","Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1393,1393,2022,6
+2451,54078,"National Institute of Technology Karnataka, Surathkal","Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2661,2661,2022,6
+2458,54089,National Institute of Technology Meghalaya,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1527,1527,2022,6
+2467,54104,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,640,640,2022,6
+2474,54116,National Institute of Technology Meghalaya,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2921,2921,2022,6
+2484,54130,National Institute of Technology Meghalaya,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1037,1037,2022,6
+2492,54143,National Institute of Technology Meghalaya,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2260,2430,2022,6
+2552,54235,National Institute of Technology Patna,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1747,1936,2022,6
+2553,54236,National Institute of Technology Patna,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3021,3021,2022,6
+2571,54274,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,432,703,2022,6
+2572,54275,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1542,1837,2022,6
+2581,54292,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,871,871,2022,6
+2589,54309,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,1258,1258,2022,6
+2600,54332,National Institute of Technology Patna,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1624,1779,2022,6
+2601,54333,National Institute of Technology Patna,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2659,2659,2022,6
+2608,54347,National Institute of Technology Patna,"Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,2424,2424,2022,6
+2619,54370,National Institute of Technology Patna,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,915,1109,2022,6
+2620,54371,National Institute of Technology Patna,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1776,1776,2022,6
+2628,54386,National Institute of Technology Patna,"Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,1365,1365,2022,6
+2645,54424,National Institute of Technology Patna,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1893,2058,2022,6
+2646,54425,National Institute of Technology Patna,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2952,2952,2022,6
+2653,54440,National Institute of Technology Patna,"Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,2332,2332,2022,6
+2661,54453,National Institute of Technology Puducherry,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1537,1537,2022,6
+2672,54472,National Institute of Technology Puducherry,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,375,654,2022,6
+2682,54488,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1231,1231,2022,6
+2683,54489,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2658,2658,2022,6
+2693,54506,National Institute of Technology Puducherry,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,746,945,2022,6
+2700,54518,National Institute of Technology Puducherry,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1970,1970,2022,6
+2701,54519,National Institute of Technology Puducherry,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3109,3109,2022,6
+2709,54536,National Institute of Technology Raipur,"Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,129,129,2022,6
+2718,54553,National Institute of Technology Raipur,"Bio Medical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2644,2945,2022,6
+2727,54572,National Institute of Technology Raipur,"Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,3024,3124,2022,6
+2728,54573,National Institute of Technology Raipur,"Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2941,2941,2022,6
+2737,54591,National Institute of Technology Raipur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2409,2556,2022,6
+2738,54592,National Institute of Technology Raipur,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3218,3218,2022,6
+2749,54614,National Institute of Technology Raipur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1597,1697,2022,6
+2750,54615,National Institute of Technology Raipur,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2428,2428,2022,6
+2763,54640,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,449,499,2022,6
+2773,54660,National Institute of Technology Raipur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1208,1271,2022,6
+2774,54661,National Institute of Technology Raipur,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1887,1887,2022,6
+2787,54685,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,848,952,2022,6
+2799,54708,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,712,740,2022,6
+2809,54728,National Institute of Technology Raipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1852,1872,2022,6
+2810,54729,National Institute of Technology Raipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2642,2642,2022,6
+2819,54748,National Institute of Technology Raipur,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2526,2834,2022,6
+2820,54749,National Institute of Technology Raipur,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3503,3540,2022,6
+2829,54767,National Institute of Technology Raipur,"Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2695,2841,2022,6
+2830,54768,National Institute of Technology Raipur,"Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4225,4225,2022,6
+2837,54779,National Institute of Technology Sikkim,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2449,2591,2022,6
+2844,54793,National Institute of Technology Sikkim,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1035,1035,2022,6
+2850,54803,National Institute of Technology Sikkim,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2046,2046,2022,6
+2857,54815,National Institute of Technology Sikkim,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2002,2002,2022,6
+2862,54824,National Institute of Technology Sikkim,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4181,4181,2022,6
+2871,54839,National Institute of Technology Arunachal Pradesh,"Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2202,2202,2022,6
+2881,54854,National Institute of Technology Arunachal Pradesh,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1136,1136,2022,6
+2890,54867,National Institute of Technology Arunachal Pradesh,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2439,2439,2022,6
+2899,54881,National Institute of Technology Arunachal Pradesh,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1772,1772,2022,6
+2908,54895,National Institute of Technology Arunachal Pradesh,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,860,860,2022,6
+2918,54914,"National Institute of Technology, Jamshedpur","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1655,1757,2022,6
+2919,54915,"National Institute of Technology, Jamshedpur","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2714,2714,2022,6
+2933,54943,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,392,460,2022,6
+2934,54944,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),644,644,2022,6
+2945,54965,"National Institute of Technology, Jamshedpur","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1307,1529,2022,6
+2957,54991,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,799,996,2022,6
+2958,54992,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1715,1715,2022,6
+2966,55008,"National Institute of Technology, Jamshedpur","Engineering and Computational Mechanics (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2060,2242,2022,6
+2977,55029,"National Institute of Technology, Jamshedpur","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1813,1973,2022,6
+2978,55030,"National Institute of Technology, Jamshedpur","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3518,3518,2022,6
+2986,55048,"National Institute of Technology, Jamshedpur","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2787,2867,2022,6
+2987,55049,"National Institute of Technology, Jamshedpur","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3770,3770,2022,6
+2997,55068,"National Institute of Technology, Jamshedpur","Production and Industrial Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2654,2847,2022,6
+3008,55088,"National Institute of Technology, Kurukshetra","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1083,1296,2022,6
+3009,55089,"National Institute of Technology, Kurukshetra","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2035,2035,2022,6
+3022,55114,"National Institute of Technology, Kurukshetra","Computer Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,231,398,2022,6
+3023,55115,"National Institute of Technology, Kurukshetra","Computer Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),909,1200,2022,6
+3034,55135,"National Institute of Technology, Kurukshetra","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,370,1070,2022,6
+3035,55136,"National Institute of Technology, Kurukshetra","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1561,1561,2022,6
+3046,55157,"National Institute of Technology, Kurukshetra","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,433,709,2022,6
+3047,55158,"National Institute of Technology, Kurukshetra","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1434,1434,2022,6
+3058,55180,"National Institute of Technology, Kurukshetra","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,285,588,2022,6
+3059,55181,"National Institute of Technology, Kurukshetra","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),716,716,2022,6
+3070,55202,"National Institute of Technology, Kurukshetra","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1431,1724,2022,6
+3071,55203,"National Institute of Technology, Kurukshetra","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2318,2318,2022,6
+3081,55221,"National Institute of Technology, Kurukshetra","Production and Industrial Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2715,3117,2022,6
+3082,55222,"National Institute of Technology, Kurukshetra","Production and Industrial Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3956,3956,2022,6
+3089,55235,"National Institute of Technology, Manipur","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2453,2453,2022,6
+3099,55252,"National Institute of Technology, Manipur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,977,1167,2022,6
+3108,55268,"National Institute of Technology, Manipur","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2429,2429,2022,6
+3117,55282,"National Institute of Technology, Manipur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1539,2044,2022,6
+3125,55295,"National Institute of Technology, Manipur","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2745,2745,2022,6
+3134,55307,"National Institute of Technology, Mizoram","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2336,2336,2022,6
+3143,55322,"National Institute of Technology, Mizoram","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1428,1428,2022,6
+3152,55332,"National Institute of Technology, Mizoram","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2421,2421,2022,6
+3153,55333,"National Institute of Technology, Mizoram","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3637,3637,2022,6
+3161,55344,"National Institute of Technology, Mizoram","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1579,1579,2022,6
+3162,55345,"National Institute of Technology, Mizoram","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3262,3262,2022,6
+3170,55355,"National Institute of Technology, Mizoram","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2832,2898,2022,6
+3177,55369,"National Institute of Technology, Rourkela","Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,43,43,2022,6
+3185,55385,"National Institute of Technology, Rourkela","Bio Medical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1420,1420,2022,6
+3194,55402,"National Institute of Technology, Rourkela","Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1649,1649,2022,6
+3203,55420,"National Institute of Technology, Rourkela","Ceramic Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2051,2051,2022,6
+3217,55450,"National Institute of Technology, Rourkela","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,999,1152,2022,6
+3218,55451,"National Institute of Technology, Rourkela","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1914,1914,2022,6
+3230,55475,"National Institute of Technology, Rourkela","Chemistry (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,2010,2010,2022,6
+3241,55498,"National Institute of Technology, Rourkela","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,473,1021,2022,6
+3242,55499,"National Institute of Technology, Rourkela","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1492,1492,2022,6
+3257,55526,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,68,86,2022,6
+3258,55527,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),237,237,2022,6
+3270,55553,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,625,688,2022,6
+3271,55554,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1321,1321,2022,6
+3282,55576,"National Institute of Technology, Rourkela","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,256,275,2022,6
+3283,55577,"National Institute of Technology, Rourkela","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),528,528,2022,6
+3292,55597,"National Institute of Technology, Rourkela","Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,387,1053,2022,6
+3300,55614,"National Institute of Technology, Rourkela","Food Process Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2210,2210,2022,6
+3308,55630,"National Institute of Technology, Rourkela","Industrial Design (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1946,1946,2022,6
+3315,55644,"National Institute of Technology, Rourkela","Life Science (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,2285,2285,2022,6
+3322,55658,"National Institute of Technology, Rourkela","Mathematics (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,1796,1796,2022,6
+3333,55681,"National Institute of Technology, Rourkela","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,747,850,2022,6
+3343,55703,"National Institute of Technology, Rourkela","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1498,1599,2022,6
+3344,55704,"National Institute of Technology, Rourkela","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2821,2821,2022,6
+3358,55732,"National Institute of Technology, Rourkela","Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1703,1802,2022,6
+3359,55733,"National Institute of Technology, Rourkela","Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2958,2958,2022,6
+3365,55744,"National Institute of Technology, Rourkela","Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,ST,Gender-Neutral,2103,2103,2022,6
+3372,55758,"National Institute of Technology, Rourkela","Physics (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,3293,3293,2022,6
+3381,55778,"National Institute of Technology, Silchar","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,586,1576,2022,6
+3382,55779,"National Institute of Technology, Silchar","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2277,2277,2022,6
+3393,55802,"National Institute of Technology, Silchar","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,215,318,2022,6
+3394,55803,"National Institute of Technology, Silchar","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1138,1138,2022,6
+3404,55823,"National Institute of Technology, Silchar","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,970,1415,2022,6
+3405,55824,"National Institute of Technology, Silchar","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2605,2605,2022,6
+3416,55848,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,608,835,2022,6
+3426,55868,"National Institute of Technology, Silchar","Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1454,1519,2022,6
+3427,55869,"National Institute of Technology, Silchar","Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2976,2976,2022,6
+3436,55889,"National Institute of Technology, Silchar","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1475,1957,2022,6
+3437,55890,"National Institute of Technology, Silchar","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3515,3589,2022,6
+3446,55907,"National Institute of Technology, Srinagar","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2709,3003,2022,6
+3447,55908,"National Institute of Technology, Srinagar","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4190,4190,2022,6
+3457,55930,"National Institute of Technology, Srinagar","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1663,2698,2022,6
+3458,55931,"National Institute of Technology, Srinagar","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3454,3454,2022,6
+3469,55955,"National Institute of Technology, Srinagar","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,966,974,2022,6
+3479,55976,"National Institute of Technology, Srinagar","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1874,2016,2022,6
+3480,55977,"National Institute of Technology, Srinagar","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3657,3657,2022,6
+3491,55998,"National Institute of Technology, Srinagar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1717,1851,2022,6
+3492,55999,"National Institute of Technology, Srinagar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3047,3047,2022,6
+3503,56021,"National Institute of Technology, Srinagar","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1039,1198,2022,6
+3504,56022,"National Institute of Technology, Srinagar","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3304,3304,2022,6
+3513,56041,"National Institute of Technology, Srinagar","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2716,2726,2022,6
+3514,56042,"National Institute of Technology, Srinagar","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4045,4045,2022,6
+3523,56057,"National Institute of Technology, Srinagar","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2864,3128,2022,6
+3524,56058,"National Institute of Technology, Srinagar","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4262,4262,2022,6
+3533,56076,"National Institute of Technology, Tiruchirappalli","Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,14,14,2022,6
+3534,56077,"National Institute of Technology, Tiruchirappalli","Architecture (5 Years, Bachelor of Architecture)",OS,ST,Female-only (including Supernumerary),32,32,2022,6
+3545,56099,"National Institute of Technology, Tiruchirappalli","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,477,511,2022,6
+3557,56124,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,192,399,2022,6
+3558,56125,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1394,1394,2022,6
+3569,56149,"National Institute of Technology, Tiruchirappalli","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,16,23,2022,6
+3570,56150,"National Institute of Technology, Tiruchirappalli","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),25,25,2022,6
+3582,56174,"National Institute of Technology, Tiruchirappalli","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,82,307,2022,6
+3583,56175,"National Institute of Technology, Tiruchirappalli","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),633,633,2022,6
+3595,56198,"National Institute of Technology, Tiruchirappalli","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,119,205,2022,6
+3596,56199,"National Institute of Technology, Tiruchirappalli","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),426,426,2022,6
+3607,56221,"National Institute of Technology, Tiruchirappalli","Instrumentation and Control Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,487,1067,2022,6
+3608,56222,"National Institute of Technology, Tiruchirappalli","Instrumentation and Control Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1406,1406,2022,6
+3620,56247,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,207,458,2022,6
+3621,56248,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),733,733,2022,6
+3631,56269,"National Institute of Technology, Tiruchirappalli","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1058,1174,2022,6
+3642,56292,"National Institute of Technology, Tiruchirappalli","Production Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1219,1364,2022,6
+3643,56293,"National Institute of Technology, Tiruchirappalli","Production Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2278,2278,2022,6
+3651,56309,"National Institute of Technology, Uttarakhand","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1765,1765,2022,6
+3652,56310,"National Institute of Technology, Uttarakhand","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3607,3607,2022,6
+3661,56327,"National Institute of Technology, Uttarakhand","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,769,769,2022,6
+3669,56343,"National Institute of Technology, Uttarakhand","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1984,1984,2022,6
+3677,56360,"National Institute of Technology, Uttarakhand","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1594,1594,2022,6
+3685,56375,"National Institute of Technology, Uttarakhand","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2204,2204,2022,6
+3695,56395,"National Institute of Technology, Warangal","Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1371,1770,2022,6
+3696,56396,"National Institute of Technology, Warangal","Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2731,2731,2022,6
+3707,56419,"National Institute of Technology, Warangal","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1043,1664,2022,6
+3708,56420,"National Institute of Technology, Warangal","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1690,1690,2022,6
+3712,56429,"National Institute of Technology, Warangal","Chemistry (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,3745,3830,2022,6
+3723,56453,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,810,967,2022,6
+3724,56454,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1471,1471,2022,6
+3736,56478,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,101,138,2022,6
+3737,56479,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),293,293,2022,6
+3750,56504,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,498,590,2022,6
+3751,56505,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1221,1221,2022,6
+3762,56529,"National Institute of Technology, Warangal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,227,240,2022,6
+3763,56530,"National Institute of Technology, Warangal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),686,686,2022,6
+3779,56562,"National Institute of Technology, Warangal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,696,976,2022,6
+3780,56563,"National Institute of Technology, Warangal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1619,1619,2022,6
+3791,56585,"National Institute of Technology, Warangal","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1897,2020,2022,6
+3792,56586,"National Institute of Technology, Warangal","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1978,1978,2022,6
+3797,56595,"National Institute of Technology, Warangal","Physics (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,3220,3220,2022,6
+3807,56616,"Sardar Vallabhbhai National Institute of Technology, Surat","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1614,1980,2022,6
+3808,56617,"Sardar Vallabhbhai National Institute of Technology, Surat","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3146,3146,2022,6
+3813,56627,"Sardar Vallabhbhai National Institute of Technology, Surat","Chemistry (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,3915,4052,2022,6
+3825,56649,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1114,1424,2022,6
+3826,56650,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1560,1560,2022,6
+3838,56673,"Sardar Vallabhbhai National Institute of Technology, Surat","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,286,313,2022,6
+3839,56674,"Sardar Vallabhbhai National Institute of Technology, Surat","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),467,467,2022,6
+3850,56695,"Sardar Vallabhbhai National Institute of Technology, Surat","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,840,1151,2022,6
+3851,56696,"Sardar Vallabhbhai National Institute of Technology, Surat","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2009,2009,2022,6
+3863,56720,"Sardar Vallabhbhai National Institute of Technology, Surat","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,566,763,2022,6
+3864,56721,"Sardar Vallabhbhai National Institute of Technology, Surat","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1057,1057,2022,6
+3870,56732,"Sardar Vallabhbhai National Institute of Technology, Surat","Mathematics (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,3372,3791,2022,6
+3880,56753,"Sardar Vallabhbhai National Institute of Technology, Surat","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1308,1941,2022,6
+3881,56754,"Sardar Vallabhbhai National Institute of Technology, Surat","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2724,2724,2022,6
+3886,56764,"Sardar Vallabhbhai National Institute of Technology, Surat","Physics (5 Years, Integrated Master of Science)",OS,ST,Gender-Neutral,2512,3960,2022,6
+3896,56784,"Visvesvaraya National Institute of Technology, Nagpur","Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,84,146,2022,6
+3906,56805,"Visvesvaraya National Institute of Technology, Nagpur","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1644,1840,2022,6
+3907,56806,"Visvesvaraya National Institute of Technology, Nagpur","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2300,2300,2022,6
+3918,56828,"Visvesvaraya National Institute of Technology, Nagpur","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,951,1080,2022,6
+3919,56829,"Visvesvaraya National Institute of Technology, Nagpur","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1659,1659,2022,6
+3933,56855,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,167,186,2022,6
+3934,56856,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),389,389,2022,6
+3945,56881,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,582,849,2022,6
+3946,56882,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),956,956,2022,6
+3957,56905,"Visvesvaraya National Institute of Technology, Nagpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,270,323,2022,6
+3958,56906,"Visvesvaraya National Institute of Technology, Nagpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),899,899,2022,6
+3969,56929,"Visvesvaraya National Institute of Technology, Nagpur","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1180,1206,2022,6
+3970,56930,"Visvesvaraya National Institute of Technology, Nagpur","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1503,1503,2022,6
+3980,56951,"Visvesvaraya National Institute of Technology, Nagpur","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2018,2149,2022,6
+3981,56952,"Visvesvaraya National Institute of Technology, Nagpur","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3168,3168,2022,6
+3989,56968,"Visvesvaraya National Institute of Technology, Nagpur","Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2364,2513,2022,6
+3997,56984,"National Institute of Technology, Andhra Pradesh","Bio Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2397,2397,2022,6
+4006,57001,"National Institute of Technology, Andhra Pradesh","Chemical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1963,1963,2022,6
+4016,57021,"National Institute of Technology, Andhra Pradesh","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2062,2231,2022,6
+4030,57049,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,365,642,2022,6
+4031,57050,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),793,793,2022,6
+4043,57073,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1277,1801,2022,6
+4044,57074,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1977,1977,2022,6
+4057,57100,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,973,1275,2022,6
+4058,57101,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1266,1266,2022,6
+4069,57123,"National Institute of Technology, Andhra Pradesh","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2220,2334,2022,6
+4070,57124,"National Institute of Technology, Andhra Pradesh","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2134,2134,2022,6
+4078,57140,"National Institute of Technology, Andhra Pradesh","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2342,2342,2022,6
+4088,57160,"Indian Institute of Engineering Science and Technology, Shibpur","Aerospace Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1408,1408,2022,6
+4094,57174,"Indian Institute of Engineering Science and Technology, Shibpur","Architecture (5 Years, Bachelor of Architecture)",OS,ST,Gender-Neutral,17,17,2022,6
+4104,57195,"Indian Institute of Engineering Science and Technology, Shibpur","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1482,2111,2022,6
+4105,57196,"Indian Institute of Engineering Science and Technology, Shibpur","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2995,2995,2022,6
+4116,57218,"Indian Institute of Engineering Science and Technology, Shibpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,281,542,2022,6
+4117,57219,"Indian Institute of Engineering Science and Technology, Shibpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),1487,1487,2022,6
+4127,57240,"Indian Institute of Engineering Science and Technology, Shibpur","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1112,1532,2022,6
+4128,57241,"Indian Institute of Engineering Science and Technology, Shibpur","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),3343,3343,2022,6
+4139,57262,"Indian Institute of Engineering Science and Technology, Shibpur","Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1029,1029,2022,6
+4150,57284,"Indian Institute of Engineering Science and Technology, Shibpur","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,797,1025,2022,6
+4151,57285,"Indian Institute of Engineering Science and Technology, Shibpur","Information Technology (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),2457,2457,2022,6
+4160,57305,"Indian Institute of Engineering Science and Technology, Shibpur","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2049,2414,2022,6
+4168,57322,"Indian Institute of Engineering Science and Technology, Shibpur","Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,3268,3268,2022,6
+4169,57323,"Indian Institute of Engineering Science and Technology, Shibpur","Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Female-only (including Supernumerary),4103,4103,2022,6
+4177,57340,"Indian Institute of Engineering Science and Technology, Shibpur","Mining Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2729,2823,2022,6
+4182,58553,"Punjab Engineering College, Chandigarh","Aerospace Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1778,1778,2022,6
+4186,58560,"Punjab Engineering College, Chandigarh","Civil Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,2604,3289,2022,6
+4193,58571,"Punjab Engineering College, Chandigarh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,447,1199,2022,6
+4198,58579,"Punjab Engineering College, Chandigarh","Computer Science Engineering (Data Science) (4 Years, B. Tech / B. Tech (Hons.))",OS,ST,Gender-Neutral,1326,1367,2022,6
+4202,58586,"Punjab Engineering College, Chandigarh","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1985,2396,2022,6
+4208,58595,"Punjab Engineering College, Chandigarh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,1728,1807,2022,6
+4212,58602,"Punjab Engineering College, Chandigarh","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,3509,4223,2022,6
+4216,58608,"Punjab Engineering College, Chandigarh","Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,4558,5198,2022,6
+4220,58614,"Punjab Engineering College, Chandigarh","Production and Industrial Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,4835,4835,2022,6
+4225,58749,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal","Electrical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,5894,5894,2022,6
+4230,58759,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal","Food Technology (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,5319,5319,2022,6
+4235,58769,"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,ST,Gender-Neutral,4831,4831,2022,6
